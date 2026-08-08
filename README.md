@@ -43,6 +43,11 @@ The following steps were followed for designing the filter:
 9. Calculate the center frequency, bandwidth, and quality factor.
 10. Compare theoretical and simulated results. ---
 
+## 📈 Frequency Response 
+The simulated filter exhibits the expected **second-order band-pass response**.
+- Frequencies below the lower cutoff frequency are attenuated.
+-  Frequencies around the center frequency experience maximum gain.
+-  Frequencies above the upper cutoff frequency are attenuated. The Bode plot obtained from LTspice can be used to identify the cutoff frequencies and analyze the overall filter performance. ---
 ## 📊 Observations
 - Output is low at low frequencies  
 - Maximum gain occurs in mid-frequency range  
