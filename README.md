@@ -41,7 +41,8 @@ The following steps were followed for designing the filter:
 7.  Obtain the magnitude and phase response.
 8.  Determine the lower and upper cutoff frequencies from the simulation.
 9. Calculate the center frequency, bandwidth, and quality factor.
-10. Compare theoretical and simulated results. ---
+10. Compare theoretical and simulated results.
+ ---
 
 ## 📈 Frequency Response 
 The simulated filter exhibits the expected **second-order band-pass response**.
