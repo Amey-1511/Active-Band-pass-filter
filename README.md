@@ -57,6 +57,17 @@ The simulated filter exhibits the expected **second-order band-pass response**.
 - Clear band-pass response is observed  
 
 ---
+## 📚 Learning Outcomes 
+Through this project, I gained practical experience in: 
+- Designing **Op-Amp-based active filters**.
+- Understanding second-order band-pass filter characteristics.
+- Performing circuit simulation using **LTspice**.
+-  Conducting AC sweep and frequency-domain analysis.
+-  Analyzing Bode plots and frequency response.
+-  Calculating cutoff frequency, bandwidth, center frequency, and Q-factor.
+-  Comparing theoretical calculations with simulation results.
+
+    ---
 
 ## 🎯 Applications
 - Audio filtering  
