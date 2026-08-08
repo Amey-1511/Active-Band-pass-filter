@@ -30,32 +30,18 @@ It is designed to:
 
 ---
 
-## 📈 Circuit Diagram
-<p align="center">
-  <a href="images/circuit.png">
-    <img src="images/circuit.png" width="600"/>
-  </a>
-</p>
-
----
-
-## 📉 Output Waveform
-<p align="center">
-  <a href="images/waveform.png">
-    <img src="images/waveform.png" width="600"/>
-  </a>
-</p>
-
----
-
-## 📝 Design Notes & Calculations
-<p align="center">
-  <a href="images/design-notes.png">
-    <img src="images/design-notes.png" width="400"/>
-  </a>
-</p>
-
----
+## 🧮 Design Methodology 
+The following steps were followed for designing the filter: 
+1. Define the required passband and center frequency.
+2.  Select suitable resistor and capacitor values.
+3. Calculate the theoretical cutoff frequencies.
+4.  Design the second-order active band-pass filter.
+5. Implement the circuit in **LTspice**.
+6.  Perform an **AC Sweep Analysis**.
+7.  Obtain the magnitude and phase response.
+8.  Determine the lower and upper cutoff frequencies from the simulation.
+9. Calculate the center frequency, bandwidth, and quality factor.
+10. Compare theoretical and simulated results. ---
 
 ## 📊 Observations
 - Output is low at low frequencies  
